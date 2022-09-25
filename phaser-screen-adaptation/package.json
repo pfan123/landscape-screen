@@ -1,0 +1,21 @@
+{
+  "name": "phaser-screen-adaptation",
+  "version": "1.0.0",
+  "description": "Phaser 游戏引擎的横竖屏适配插件",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Tingglelaoo/phaser-screen-adaptation.git"
+  },
+  "keywords": [
+    "phaser",
+    "screen",
+    "adaptation"
+  ],
+  "author": "tingglelaoo",
+  "license": "ISC",
+  "dependencies": {
+    "symbol": "^0.3.1"
+  }
+}
