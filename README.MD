@@ -67,7 +67,7 @@ detectOrient();
 > 而缩放适配方案做法是，采用的最为常见的缩放手段——利用 CSS3 Transform 的 scale 属性，达到“一种设计尺寸适配多种分辨率屏幕”的目的。
 
 
-横屏画布布局 -> rotate 90 deg 竖屏画布布局 -> 缩放调整元素   
+横屏画布布局 -> rotate 90 deg 竖屏画布布局 -> 缩放调整元素 （图片背景contain mode 适配）  
 
 > 只旋转 canvas stage 内容，canvas 坐标系与页面坐标系一致。
 
